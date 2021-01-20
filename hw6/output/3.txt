@@ -1,0 +1,7 @@
+cat: tarfs/hello_world.html: No such file or directory
+cat: tarfs/dir1/dir2/hello_world.html: No such file or directory
+cat: tarfs/dir1/dir2/2.txt: No such file or directory
+diff: tarfs/dir1/1.txt: No such file or directory
+diff: tarfs/dir1/2.txt: No such file or directory
+diff: tarfs/dir1/2.txt: No such file or directory
+diff: tarfs/dir1/3.txt: No such file or directory

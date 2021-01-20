@@ -1,0 +1,11 @@
+\main: hw4.cpp makefile
+	g++ -o hw4 hw4.cpp -pthread
+	./hw4
+	diff output_1.txt output_ans.txt
+	diff output_2.txt output_ans.txt
+	diff output_3.txt output_ans.txt
+	diff output_4.txt output_ans.txt
+	diff output_5.txt output_ans.txt
+	diff output_6.txt output_ans.txt
+	diff output_7.txt output_ans.txt
+	diff output_8.txt output_ans.txt

@@ -1,0 +1,8 @@
+total 1188
+-rw-r--r-- 1 root root  82895 Sep 23 02:04 109F-assignment_1.pptx.pdf
+-rw-r--r-- 1 root root 988371 Sep 24 05:36 Docker_Tutorial_2020.pptx
+-rwxr-xr-x 1 root root  75900 Oct  6 01:39 hw1
+-rw-r--r-- 1 root root   4910 Oct  6 06:03 hw1.cpp
+-rwxr-xr-x 1 root root  46968 Oct  6 06:04 hw1.o
+-rw-r--r-- 1 root root      0 Oct  6 06:04 temp.txt
+-rw-r--r-- 1 root root      4 Sep 29 11:45 test

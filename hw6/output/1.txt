@@ -1,0 +1,7 @@
+/hw6/tarfs
+./testcase/1.txt: line 3: cd: dir1/dir2: No such file or directory
+/hw6/tarfs
+/
+./testcase/1.txt: line 7: cd: largefiles: No such file or directory
+./testcase/1.txt: line 8: cd: largefile/../dir: No such file or directory
+/

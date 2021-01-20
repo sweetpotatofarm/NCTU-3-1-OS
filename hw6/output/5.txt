@@ -1,0 +1,4 @@
+total 0
+-rw-rw-r-- 0 1000 1000 23 Nov 26  2019 blue.txt
+-rw-rw-r-- 0 1000 1000 22 Nov 26  2019 red.txt
+-rw-rw-r-- 0 1000 1000 12 Nov 26  2019 yellow.txt
